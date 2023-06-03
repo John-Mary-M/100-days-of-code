@@ -1,22 +1,18 @@
 # 100 Days Of Code - Log
 
-Day 0: June 02, 2023 
-
+###Day 0: June 02, 2023 
 This is Day 0, I decided to start by revising my base knowldege in python by creating a random password generator.
 Quickly realised my syntax needs brushing up, and a need to review some concepts. In the first try I managed to create a random number password generator that takes a length of the password from the user. The next step I want to have a mix of symbols and alphabet characters.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Random Password generator](https://github.com/John-Mary-M/100-days-of-code/blob/master/passGen.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 3, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Yesterday i realised i needed to k=learn more about the random module. So today i have gone in to look at some of the functions in the module. They are many, but i purpose to work through atleast 10 of them. Today i handled 5 functions and understood them well. Tomorrow i will continue with more five
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: It was a struggle to get my head around what each does withouth mixing them up, but finally their names made sense and helped me understand them.
+**Link(s) to work**: [random module](https://github.com/John-Mary-M/100-days-of-code/blob/master/randmod.py)
 
 
 ### Day 1: June 27, Monday
