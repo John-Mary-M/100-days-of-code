@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###Day 0: June 02, 2023 
+### Day 0: June 02, 2023 
 This is Day 0, I decided to start by revising my base knowldege in python by creating a random password generator.
 Quickly realised my syntax needs brushing up, and a need to review some concepts. In the first try I managed to create a random number password generator that takes a length of the password from the user. The next step I want to have a mix of symbols and alphabet characters.
 
@@ -15,12 +15,48 @@ Quickly realised my syntax needs brushing up, and a need to review some concepts
 **Link(s) to work**: [random module](https://github.com/John-Mary-M/100-days-of-code/blob/master/randmod.py)
 
 
-### Day 1: June 27, Monday
+### Day 2: June 4, Sunday 2023
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I have continued to look at the random module. Specifically the choices(), getrandbits(), randint(), seed(), and random().
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was interesting observing the similarities and difference between choice() from yesterday and choices() and learning about the optional parameter weght, cum_weight which were really confusing but through experimenting with them i got a hang of them.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [randmod2.py](https://github.com/John-Mary-M/100-days-of-code/blob/master/randmod2.py)
+
+
+### Day 2: June 5, Sunday 2023
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 2: June 5, Sunday 2023
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 2: June 5, Sunday 2023
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 2: June 5, Sunday 2023
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
