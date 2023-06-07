@@ -25,16 +25,20 @@ Quickly realised my syntax needs brushing up, and a need to review some concepts
 1. [randmod2.py](https://github.com/John-Mary-M/100-days-of-code/blob/master/randmod2.py)
 
 
-### Day 2: June 5, Sunday 2023
+### Day 3 and 4: June 5 - 6, 2023
 
 
-**Today's Progress**:
+**Progress**: The semester started on high note. Wasnt suprised but the projects came from a totally unexpected perspective
+Projects from class kept me busy good thing they were python related. I learnt about compiling py scripts in a Linux enviroment
+, pycodestle, fstrings, string formaters, functions, and i was introduced to control flow.
 
-**Thoughts**
+**Thoughts**: It has not been an easy past 2 days, at a point it felt like i was not understanding anything, but managed to complete the tasks.
+Class work requires a very different mind set and approach to python I wasnt yet in. But now starting to get a hang of.
 
-**Link(s) to work**
+**Link(s) to work**: https://github.com/John-Mary-M/alx-higher_level_programming/tree/master/0x00-python-hello_world
+	     	     https://github.com/John-Mary-M/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions
 
-### Day 2: June 5, Sunday 2023
+### Day 5: June 7, Sunday 2023
 
 
 **Today's Progress**:
