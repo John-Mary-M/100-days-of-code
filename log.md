@@ -68,7 +68,7 @@ inserting, and deleting from the list.
 **Link(s) to work**: https://github.com/John-Mary-M/100-days-of-code/tree/master/C_revision
 
 
-### Day 6: June 8, Sunday 2023
+### Day 6: June 8, Thursday 2023
 
 **Today's Progress**: On day 0 I wrote a program that generates a random
 password for the user, in that program i import the random module. Today
