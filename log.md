@@ -94,6 +94,7 @@ Majorly because of class and unstable internet but i wont back down. Using
 python module to fulfill this script has been an empowering experience.
 
 **Link(s) to work**
+https://github.com/John-Mary-M/100-days-of-code/blob/master/documentation_check.py
 
 ### Day 2: June 5, Sunday 2023
 
