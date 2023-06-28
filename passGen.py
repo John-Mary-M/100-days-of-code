@@ -1,4 +1,4 @@
-#!/usr/bin/python33
+#!/usr/bin/python3
 #2/06/2023 random password generator
 
 '''

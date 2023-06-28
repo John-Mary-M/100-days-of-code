@@ -84,10 +84,14 @@ sense right away like namespaces and scopes, everyth started to fall into place.
 https://github.com/John-Mary-M/alx-higher_level_programming/tree/master/0x02-python-import_modules
 
 
+### Day 7 June 28 2023
+**Today's Progress**: Created a python script that automates documentation
+checks for python code. It checks if classes, modules and functions i write have
+proper docstrings.
 
-**Today's Progress**:
-
-**Thoughts**
+**Thoughts**: Its been a while since i last sat down to work this challenge.
+Majorly because of class and unstable internet but i wont back down. Using
+python module to fulfill this script has been an empowering experience.
 
 **Link(s) to work**
 
